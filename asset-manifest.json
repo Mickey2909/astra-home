@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/astra-home/static/css/main.edd90508.css",
+    "main.js": "/astra-home/static/js/main.20ddf0f0.js",
+    "static/js/453.3deb290a.chunk.js": "/astra-home/static/js/453.3deb290a.chunk.js",
+    "static/media/banner_1.jpg": "/astra-home/static/media/banner_1.56c4388b1ea118a28527.jpg",
+    "static/media/color-sharp.png": "/astra-home/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/skills_5.jpg": "/astra-home/static/media/skills_5.4fcdd108d7ddc3f2ee61.jpg",
+    "static/media/skills_4.jpg": "/astra-home/static/media/skills_4.36393ef88dbb7df970e1.jpg",
+    "static/media/skills_1.jpg": "/astra-home/static/media/skills_1.0f1273d178862a959bff.jpg",
+    "static/media/skills_2.jpg": "/astra-home/static/media/skills_2.0b3ec6dadbe1a36b6670.jpg",
+    "static/media/skills_3.jpg": "/astra-home/static/media/skills_3.aa74bfc655ba94cab4b4.jpg",
+    "static/media/revicons.eot": "/astra-home/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/astra-home/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/astra-home/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/astra-home/static/media/logo.66771caf930db0c3c4c0ebd837dbcf16.svg",
+    "index.html": "/astra-home/index.html",
+    "main.edd90508.css.map": "/astra-home/static/css/main.edd90508.css.map",
+    "main.20ddf0f0.js.map": "/astra-home/static/js/main.20ddf0f0.js.map",
+    "453.3deb290a.chunk.js.map": "/astra-home/static/js/453.3deb290a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edd90508.css",
+    "static/js/main.20ddf0f0.js"
+  ]
+}
